@@ -6,4 +6,11 @@ const getNames = (arr) => {
   });
 };
 
+const sayHello = () => {
+  arr.forEach((element) => {
+    console.log(`Hola,${element}`);
+  });
+};
+
 getNames();
+sayHello();
