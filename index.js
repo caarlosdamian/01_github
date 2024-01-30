@@ -13,3 +13,4 @@ const sayHello = () => {
 };
 
 getNames();
+sayHello();
