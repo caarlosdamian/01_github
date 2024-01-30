@@ -1,0 +1,2 @@
+const arreglo = ['Carlos']
+
